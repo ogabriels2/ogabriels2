@@ -39,13 +39,15 @@ Tenho interesse especial por interfaces bem construídas, aplicações com back-
 | [**Força Aliada Manager**](https://github.com/ogabriels2/forca-aliada-releases) | Aplicação desktop para gerenciamento, automação e monitoramento de servidores. Interface inspirada em softwares nativos do Windows. |
 | [**Força Aliada Site**](https://github.com/ogabriels2/forca-aliada-site) | Site institucional com autenticação, painel de controle e back-end próprio. HTML, JavaScript e Node.js. |
 | [**Portfólio**](https://github.com/ogabriels2/portfolio) | Projeto pessoal para experimentação visual, interfaces e organização de ideias. |
+| [**etec**](https://github.com/ogabriels2/etec) | Projetos desenvolvidos durante o curso técnico na Etec. |
 
 ---
 
 ## Linguagens
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabriels2&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ogabriels2&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ogabriels2&theme=tokyonight" />
 </p>
 
 ---
