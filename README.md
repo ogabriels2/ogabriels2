@@ -27,7 +27,7 @@
 
 ## 🚀 Sobre mim
 
-Estudo **Tecnologia da Informação na UNIVESP** e venho construindo uma base sólida em desenvolvimento, automação e infraestrutura. Tenho também uma forte formação em **multimídia e design** — o que influencia diretamente como penso em interfaces, projetos e experiência do usuário.
+Estou cursando **Tecnologia da Informação na UNIVESP** e tenho adquirido uma base robusta em desenvolvimento, automação e infraestrutura. Possuo uma sólida formação em **multimídia e design**, o que impacta de maneira significativa a minha forma de conceber interfaces, projetos e a experiência do usuário.
 
 Acredito que tecnologia bem feita também tem que ser bem apresentada.
 
