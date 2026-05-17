@@ -1,71 +1,61 @@
-<h1 align="center">Gabriel Silva</h1>
+<div align="center">Gabriel Silva
 
-<p align="center">
-  Tecnologia da Informação · Software · Interfaces · Automação
-</p>
+Tecnologia da Informação · Multimídia · Design Digital
 
-<p align="center">
-  <a href="https://ogabriels.com">
-    <img src="https://img.shields.io/badge/ogabriels.com-111827?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ogabriels/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ogabriels0/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/ogabriels/">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:contato@ogabriels.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
----
 
-## Sobre mim
 
-Curso Tecnologia da Informação na UNIVESP e venho aprofundando meus conhecimentos em desenvolvimento de software, automação e infraestrutura.
 
-Antes da TI, passei anos estudando multimídia e design. Isso moldou bastante a forma como desenvolvo projetos hoje: penso tanto na parte técnica quanto na experiência de quem vai usar aquilo.
 
-Tenho interesse especial por interfaces bem construídas, aplicações desktop, automação e softwares com aparência polida e nativa.
 
-> Tecnologia bem feita também precisa ser bem apresentada.
+</div>Sobre mim
 
----
+Sou estudante de Tecnologia da Informação na Univesp, com bagagem em multimídia — o que me dá uma visão única: penso em sistemas e em como eles aparecem para o mundo.
 
-## Tecnologias e ferramentas
+Estou expandindo meu conhecimento em desenvolvimento, infraestrutura e tudo que orbita o universo da TI. A ideia é juntar o lado técnico com o lado visual, porque acredito que tecnologia bem feita também tem que ser bem apresentada.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,windows&theme=dark" />
-</p>
 
----
 
-## Projetos
+Multimídia → TI → Desenvolvimento Web → Infra → ?
 
-### [Força Aliada Manager](https://github.com/ogabriels2/forca-aliada-releases)
+Stack atual
 
-Aplicação desktop focada em gerenciamento, automação e monitoramento de servidores, com experiência inspirada em softwares nativos do Windows.
+Front-end
 
-### [Força Aliada Site](https://github.com/ogabriels2/forca-aliada-site)
 
-Site institucional voltado à identidade visual e presença online da comunidade Força Aliada.
 
-### [Portfólio](https://github.com/ogabriels2/portfolio)
+Ferramentas & Plataformas
 
-Projeto pessoal utilizado para experimentação visual, interfaces e organização de ideias.
 
----
 
-## Linguagens
+Projetos em destaque
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabriels2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+ProjetoDescriçãoTechforca-aliada-siteSite da Força AliadaHTMLportfolioPortfólio pessoalHTMLforca-aliada-releasesDownload e atualizações automáticas do Força Aliada Manager—etecProjetos da EtecHTMLEm andamento
 
----
+📚 Graduação em TI pela Univesp
 
-<p align="center">São Paulo, Brasil</p>
+🔧 Aprofundando em desenvolvimento web e lógica de programação
+
+🎨 Unindo multimídia e código em projetos próprios
+
+🌐 Explorando infraestrutura, redes e sistemas
+
+Números
+
+
+
+<div align="center">
+
+
+
+
+
+
+
+</div>
+
+<div align="center">ogabriels.com · São Paulo, Brasil
+
+
+
+</div>
