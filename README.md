@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="header.svg" alt="Gabriel Silva" width="800" />
+  <img src="assets/header.svg" alt="Gabriel Silva" width="800" />
 </p>
 
 <p align="center">
