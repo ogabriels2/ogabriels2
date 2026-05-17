@@ -10,7 +10,6 @@
   <a href="https://ogabriels.com"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ogabriels/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/ogabriels0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/ogabriels/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:contato@ogabriels.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -43,7 +42,6 @@ Tenho interesse especial por interfaces bem construídas, aplicações com back-
 | [**Força Aliada Manager**](https://github.com/ogabriels2/forca-aliada-releases) | Aplicação desktop para gerenciamento, automação e monitoramento de servidores. Interface inspirada em softwares nativos do Windows. |
 | [**Força Aliada Site**](https://github.com/ogabriels2/forca-aliada-site) | Site institucional com autenticação, painel de controle e back-end próprio. HTML, JavaScript e Node.js. |
 | [**Portfólio**](https://github.com/ogabriels2/portfolio) | Projeto pessoal para experimentação visual, interfaces e organização de ideias. |
-| [**etec**](https://github.com/ogabriels2/etec) | Projetos desenvolvidos durante o curso técnico na Etec. |
 
 ---
 
