@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.md">🇺🇸 English</a>
+</p>
+
 <p align="center">
   <img src="header.svg" alt="Gabriel Silva" width="800" />
 </p>
@@ -44,5 +48,5 @@ Tenho interesse especial por interfaces bem construídas, aplicações com back-
 ---
 
 <p align="center">
-  <a href="https://ogabriels.com">ogabriels.com</a> · São Paulo, Brasil · <a href="README.md">Read in English</a>
+  <a href="https://ogabriels.com">ogabriels.com</a> · São Paulo, Brasil
 </p>
