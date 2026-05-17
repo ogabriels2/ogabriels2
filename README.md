@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Gabriel Silva</h1>
 
 <p align="center">
@@ -69,4 +68,3 @@ Projeto pessoal utilizado para experimentação visual, interfaces e organizaç�
 <p align="center">
   São Paulo, Brasil
 </p>
-```
