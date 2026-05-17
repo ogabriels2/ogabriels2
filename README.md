@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="README.pt.md">🇧🇷 Português</a>
-</p>
-
 <p align="center">
   <img src="assets/header.svg" alt="Gabriel Silva" width="800" />
 </p>
