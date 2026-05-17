@@ -1,10 +1,83 @@
-## Olá, sou o Gabriel Silva 👋
-Estou estudando Tecnologia da Informação na Univesp e pretendo ampliar muito meu conhecimento de infprmática e afins para conciliar com o que estudei de multimídia nos últimos anos da minha vida.
+<h1 align="center">Gabriel Silva 👋</h1>
 
-### Entre em contato comigo:
+<p align="center">
+  <b>Estudante de Tecnologia da Informação • UNIVESP</b><br>
+  Desenvolvimento web, automação, multimídia e experiência do usuário.
+</p>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogabriels/)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogabriels0/)
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ogabriels0)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ogabriels/)
- [![E-mail](https://camo.githubusercontent.com/9416eebd26dd4108d673d22544a8218f70bd3d17fe8b4e98b850ef5fc8b6ce29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](gabalarcadsmoreira2016@gmail.com)
+<p align="center">
+  <a href="https://ogabriels.com">
+    <img src="https://img.shields.io/badge/ogabriels.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ogabriels/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ogabriels0/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/ogabriels/">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:contato@ogabriels.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Estudo **Tecnologia da Informação na UNIVESP** e venho construindo uma base sólida em desenvolvimento, automação e infraestrutura. Tenho também uma forte formação em **multimídia e design** — o que influencia diretamente como penso em interfaces, projetos e experiência do usuário.
+
+Acredito que tecnologia bem feita também tem que ser bem apresentada.
+
+- ⚙️ Desenvolvimento de aplicações desktop e web
+- 🖥️ Automação e gerenciamento de servidores
+- 🎨 UI/UX com visual moderno e nativo
+- ☁️ Infraestrutura, deploy e distribuição de software
+- 📚 Evolução constante em tecnologia e engenharia de software
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,windows&theme=dark" />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 [Força Aliada Manager](https://github.com/ogabriels2/forca-aliada-releases)
+Sistema desktop para gerenciamento e automação de servidores Minecraft. Interface moderna com foco em experiência nativa, monitoramento e distribuição automática de atualizações.
+
+### 🔹 [Força Aliada Site](https://github.com/ogabriels2/forca-aliada-site)
+Site institucional da comunidade Força Aliada, com foco em identidade visual e presença online.
+
+### 🔹 [Portfólio](https://github.com/ogabriels2/portfolio)
+Projeto pessoal para experimentos visuais e testes de interface.
+
+---
+
+## 📈 Objetivos atuais
+
+- Evoluir como desenvolvedor full-stack
+- Aprimorar arquitetura e organização de projetos
+- Criar softwares com aparência profissional e ótima experiência de uso
+- Construir projetos realmente úteis e bem acabados
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogabriels2&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabriels2&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  Pronto para colaborar em projetos inovadores. Vamos conversar? 🤝
+</p>
