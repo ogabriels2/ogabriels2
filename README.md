@@ -42,15 +42,6 @@ Tenho interesse especial por interfaces bem construídas, aplicações com back-
 
 ---
 
-## Linguagens
-
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ogabriels2&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ogabriels2&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <a href="https://ogabriels.com">ogabriels.com</a> · São Paulo, Brasil
 </p>
